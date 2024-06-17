@@ -11,3 +11,7 @@
   transform: scale(1.04);
   transition: transform 0.3s ease;
 }
+
+.sl-wrapper {
+  background: #2E2F42CC;
+}
